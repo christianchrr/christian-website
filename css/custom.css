@@ -1,0 +1,32 @@
+.button_red {
+     background-color: red;
+     color: white;
+     width: 200px;
+     height: 150px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     border-radius: 10px;
+     font-size: 32px;
+     font-weight: bold;
+ }
+
+.button_red:hover {
+    background-color: pink;
+}
+
+.button_blue {
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.button_blue:hover {
+    background-color: lightseagreen;
+}
+
